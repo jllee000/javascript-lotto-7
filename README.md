@@ -1,4 +1,5 @@
-# javascript-lotto-precourse _ 프론트엔드 이재림
+# javascript-lotto-precourse 
+프론트엔드 이재림
 # 로또
 ### 과제 진행 요구 사항
 - 미션은 로또 저장소를 포크하고 클론하는 것으로 시작한다.
